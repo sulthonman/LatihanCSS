@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanCSS", "LatihanCSS.csproj", "{64C92225-2D04-412A-BF2C-A466C6CA25AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C92225-2D04-412A-BF2C-A466C6CA25AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C92225-2D04-412A-BF2C-A466C6CA25AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C92225-2D04-412A-BF2C-A466C6CA25AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C92225-2D04-412A-BF2C-A466C6CA25AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19CD5EC8-0830-4D16-A3EB-D645F47D69E4}
+	EndGlobalSection
+EndGlobal
